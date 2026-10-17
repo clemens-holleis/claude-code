@@ -1,0 +1,6 @@
+add git worktrees to this folder to make repos
+available to claude code inside the dev container
+
+```shell
+git worktree add /local/path/to/this/folder/<repo-name> <git-branch>
+```
